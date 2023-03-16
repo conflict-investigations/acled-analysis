@@ -9,6 +9,9 @@ Obtain `Ukraine_Black_Sea_2020_2023_Mar10.xlsx` from ACLED.
 
 ### Analysis
 
+See the accompanying ipython jupyter notebook:
+[acled_analysis.ipynb](acled_analysis.ipynb)
+
 Total missile strikes
 ![acled_missile_strikes](acled_missile_strikes.png)
 
